@@ -1,0 +1,14 @@
+
+
+
+MVC :  droplets, tags,   (Page view guide & programming guide)
+
+Business layer :
+
+Repository : caches..similar to hibernate ..ORM..this talks to DB  (Repository guide)
+
+
+Why ATG :
+
+commerce suite, lot of code of out of box...
+
